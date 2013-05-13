@@ -235,7 +235,7 @@ Ejemplo:
 
 <!-- language: lang-bash -->
 
-	$ git rm <archivo>
+	$ git rm <Nombre_archivo_inicio> <Nombre_archivo_final>
 
 ¿Cómo renombrar archivos?
 -------------------------
