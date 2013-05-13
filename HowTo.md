@@ -266,12 +266,6 @@ Ejemplo:
 	$ git checkout master
 	$ git merge <nombre_rama>
 
-¿Cómo comprobar el estado de tu archivos (status)?
-----------------------------
-
-<!-- language: lang-bash -->
-
-	$ git status
 
 
 
